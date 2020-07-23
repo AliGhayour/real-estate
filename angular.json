@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "real-estate"
+    }
+  },
+  "defaultProject": "real-estate",
+  "cli": {
+    "analytics": false
+  }
 }
